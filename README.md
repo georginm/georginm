@@ -9,7 +9,7 @@
 ### Welcome to my profile!
   
 - 🔭 I’m currently working on <a href="https://www.brisanet.com.br/" target="_blank">Brisanet Telecomunicações</a>
-- 🌱 I’m currently learning AdonisJS, ReactJS, Asterisk
+- 🌱 I’m currently learning PHP, AdonisJS, ReactJS, Asterisk
 - 💬 Ask me about AdonisJS
 
 <div>
