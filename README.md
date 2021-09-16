@@ -9,8 +9,8 @@
 ### Welcome to my profile!
   
 - 🔭 I’m currently working on <a href="https://www.brisanet.com.br/" target="_blank">Brisanet Telecomunicações</a>
-- 🌱 I’m currently learning Adonis, React, Asterisk
-- 💬 Ask me about Adonis
+- 🌱 I’m currently learning AdonisJS, ReactJS, Asterisk
+- 💬 Ask me about AdonisJS
 
 <div>
   <a href="https://github.com/georginm">
