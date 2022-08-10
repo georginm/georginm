@@ -8,8 +8,8 @@
 
 ### Welcome to my profile!
   
-- 🔭 I’m currently working on <a href="https://www.brisanet.com.br/" target="_blank">Brisanet Telecomunicações</a>
-- 🌱 I’m currently learning PHP, AdonisJS, ReactJS, Asterisk
+- 🔭 I’m currently working on <a href="https://www.ewally.com.br/" target="_blank">Ewally Instituição de Pagamento S.A.</a>
+- 🌱 I’m currently learning Typescrpt, NodeJS, Serverless Framework, AWS-CDK, ReactJS
 - 💬 Ask me about AdonisJS, TypeScript, ExpressJS
 
 <div>
