@@ -9,8 +9,8 @@
 ### Welcome to my profile!
   
 - 🔭 I’m currently working on <a href="https://www.ewally.com.br/" target="_blank">Ewally Instituição de Pagamento S.A.</a>
-- 🌱 I’m currently learning Typescrpt, NodeJS, Serverless Framework, AWS-CDK, ReactJS
-- 💬 Ask me about AdonisJS, TypeScript, ExpressJS
+- 🌱 I’m currently learning Typescrpt, NodeJS, Serverless Framework, ReactJS
+- 💬 Ask me about TypeScript, ExpressJS
 
 <!-- <div>
   <a href="https://github.com/georginm">
